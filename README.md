@@ -17,6 +17,8 @@ This repository contains the outline, resources, and hands-on exercises for our 
 
 **Hands-on: Building a simple chain.**
 
+--
+
 ### **Week 2 - Prompts & Chains**
 
 - **Writing better prompts** → Learn how to design reusable templates so you don’t rewrite the same prompt over and over.
@@ -25,6 +27,8 @@ This repository contains the outline, resources, and hands-on exercises for our 
 
 **Hands-on:** Create a personalized Q&A chatbot.
 
+--
+
 ### **Week 3 - Working with Documents & Search**
 
 - **Bringing data into your app** → Learn how to pull in info from PDFs, websites, or APIs.
@@ -32,6 +36,8 @@ This repository contains the outline, resources, and hands-on exercises for our 
 - **Smart search** → Use these vectors to find similar pieces of text, like “Google search but with meaning.”
 
 **Hands-on:** Build a mini search engine that can look up answers from a set of documents.
+
+--
 
 ### **Week 4 – Retrieval-Augmented Generation (RAG)**
 
