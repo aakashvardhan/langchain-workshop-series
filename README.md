@@ -3,33 +3,26 @@
 Welcome to the **LangChain Workshop Series** hosted by the AI/ML Club!
 This repository contains the outline, resources, and hands-on exercises for our weekly session
 
-📅 **Schedule** (Tentative): From October 10th, **Friday, 12:00pm-1:30pm**
+📅 **Schedule**: From Sept 26th, **Friday, 12:00pm-1:30pm**
 👥 **Audience**: Everyone
 
 ## 📖 Workshop Outline
 
-### **Week 1 - Introduction to LangChain & LLM Ecosystem**
+### **Week 1 - Introduction to LangChain (Models, Prompts & Chains)**
 
 - To give a brief introduction, **LangChain is a framework for developing applications powered by LLMs**
 - What are its use cases?
-- LLM applications (chatbots, agents, RAGs, workflows).
-- Key Concepts: Chains, Agents, Tools.
-
-**Hands-on: Building a simple chain.**
-
---
-
-### **Week 2 - Prompts & Chains**
+- LLM applications (chatbots).
+- Key Concepts: Chains, Prompts, Output Parsers.
 
 - **Writing better prompts** → Learn how to design reusable templates so you don’t rewrite the same prompt over and over.
 - **Connecting steps together** → Understand how to link multiple tasks in a sequence (one after another) or run them in parallel (at the same time).
-- **Seeing what’s happening under the hood** → Learn how to trace and debug your app so you can spot mistakes and fix them quickly.
 
-**Hands-on:** Create a personalized Q&A chatbot.
+**Hands-on:** Create a chain.
 
 --
 
-### **Week 3 - Working with Documents & Search**
+### **Week 2 - Working with Documents & Search**
 
 - **Bringing data into your app** → Learn how to pull in info from PDFs, websites, or APIs.
 - **Vector Embeddings & Similarity Search** → Discover how AI converts words into vectors (fancy number lists) so computers can understand meaning.
@@ -39,7 +32,7 @@ This repository contains the outline, resources, and hands-on exercises for our 
 
 --
 
-### **Week 4 – Retrieval-Augmented Generation (RAG)**
+### **Week 3 – Retrieval-Augmented Generation (RAG)**
 
 - RAG concepts and importance.
 - Vector stores (FAISS, Chroma, Pinecone, etc.).
