@@ -22,24 +22,6 @@ This repository contains the outline, resources, and hands-on exercises for our 
 
 --
 
-### **Week 2 - Working with Documents & Search**
-
-- **Bringing data into your app** → Learn how to pull in info from PDFs, websites, or APIs.
-- **Vector Embeddings & Similarity Search** → Discover how AI converts words into vectors (fancy number lists) so computers can understand meaning.
-- **Smart search** → Use these vectors to find similar pieces of text, like “Google search but with meaning.”
-
-**Hands-on:** Build a mini search engine that can look up answers from a set of documents.
-
---
-
-### **Week 3 – Retrieval-Augmented Generation (RAG)**
-
-- RAG concepts and importance.
-- Vector stores (FAISS, Chroma, Pinecone, etc.).
-- Retriever pipelines.  
-  **Hands-on:** Retrieval-based chatbot for your university handbook.
-
---
 
 ## 📢 Community
 
